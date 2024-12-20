@@ -19,4 +19,4 @@ This portfolio is a reflection of my web development journey. I chose the brutal
 - Embracing the **Brutalist style** in design choices – bold colors, large typography, and minimalistic feel.
 
 ### See the live project:
-[**Demo Portfolio**](https://gotta-know-shidiq.vercel.app/)
+[**Klik Demo Portfolio**](https://gotta-know-shidiq.vercel.app/)
